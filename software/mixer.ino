@@ -30,16 +30,16 @@ byte choice = GetKeypadInput();
 
 switch (choice) {
   case 1:
-    RunPump(m1, 7000);
+    RunPump(m1, 6200);
     break;
 
   case 2:
-    RunPump(m2, 7000);
+    RunPump(m2, 6200);
     break;
 
   case 3:
-    RunPump(m1, 3500);
-    RunPump(m2, 3500);
+    RunPump(m1, 3100);
+    RunPump(m2, 3100);
     break;
 
   default:
