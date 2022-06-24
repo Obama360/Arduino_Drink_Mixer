@@ -1,2 +1,9 @@
 Part List:
 
+
+#     Name                        Link
+1     DFRduino UNO R3             https://www.bastelgarage.ch/dfrduino-uno-r3-arduino-kompatibles-board
+1     LCD 1602 Keypad Shield      https://www.bastelgarage.ch/lcd-1602-keypad-shield-fur-arduino-uno
+1     Fermion TB6612FNG           https://www.bastelgarage.ch/fermion-tb6612fng-2x1-2a-dc-motor-treiber
+1     Sparkfun 22AWG black        https://www.bastelgarage.ch/litze-schwarz-22awg-sparkfun
+2     JT-280AT                    https://www.bastelgarage.ch/wasserpumpe-jt-280at-280-600l-h-6-12v
